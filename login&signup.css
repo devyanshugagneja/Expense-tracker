@@ -1,0 +1,39 @@
+body{
+background-color: #1F1D36;
+}
+.image{
+    justify-content: right;
+    margin-left: 370px;
+    padding-top: 50px;
+
+}
+#heading{
+    margin-left: 430px;
+}
+.text{
+   color: white;
+}
+#content{
+    margin-left: 220px;
+    font-size: medium;
+}
+#text{
+    margin-left: 350px;
+    font-size: medium;
+}
+.button{
+    font-size: 16px;
+    width: 100px;
+    height: 40px;
+    margin-left: 430px;
+    color: #1F1D36;
+    font-weight: bold;
+    }
+#login{
+    background-color: #E9A6A6;
+    border: #E9A6A6 solid 4px;
+}
+#signup{
+    border: #E9A6A6 solid 4px;
+    
+}
